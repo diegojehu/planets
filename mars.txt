@@ -3,3 +3,4 @@ The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
 Considering Venus as a possible base
 Venus is too hot, unsuitable for base
+We added a different line in the other copy
